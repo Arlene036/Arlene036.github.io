@@ -10,10 +10,10 @@ main:
     url: /research/    
     
   - title: "Study Notes"
-    url: /portfolio/
+    url: /notes/
         
   - title: "Study Diary"
-    url: /year-archive/
+    url: /Diary/
     
   - title: "CV"
     url: /cv/
